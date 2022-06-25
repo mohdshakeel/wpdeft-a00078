@@ -1,0 +1,33 @@
+/* #estimation_popup.wpe_bootstraped div[data-itemtype="checkbox"]{
+    margin: 0 auto !important;
+    width: 500px;
+}
+
+#estimation_popup.wpe_bootstraped div[data-itemtype="checkbox"] > div > label{
+    width: 380px;
+    float: right;
+	text-align:left;
+	padding-left:100px;
+}
+/* #lfb_bootstraped.lfb_bootstraped #estimation_popup[data-inlinelabels="true"] .switch.has-switch {
+   float: left
+    margin: 0 auto;
+}*/
+
+
+
+
+/*
+@media only screen and (max-width: 768px) {
+#estimation_popup.wpe_bootstraped div[data-itemtype="checkbox"]{
+    margin: 0 auto !important;
+    width: 300px;
+}
+
+ #estimation_popup.wpe_bootstraped div[data-itemtype="checkbox"] > div > label{
+    width: 180px;
+    float: right;
+	font-size:12px !important;
+	text-align:left;
+}
+}
